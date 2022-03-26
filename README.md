@@ -1,5 +1,7 @@
 ### Hi guys, welcome on my Github profile! 👋
 
+You can also check my codepen: https://codepen.io/killiangemoets
+
 <!--
 **killiangemoets/KillianGemoets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
