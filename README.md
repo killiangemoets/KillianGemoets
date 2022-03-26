@@ -1,4 +1,4 @@
-### Hi guys, welcome on my Github profile! 👋
+### Hi guys, welcome on my Github! 👋
 
 You can also check my codepen: https://codepen.io/killiangemoets
 
