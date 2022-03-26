@@ -1,4 +1,4 @@
-### Hi guys, welcome on my Github profile! 👋
+### Hello world! Welcome on my Github profile! 👋
 
 <!--
 **killiangemoets/KillianGemoets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
